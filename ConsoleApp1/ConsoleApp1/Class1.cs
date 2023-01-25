@@ -17,5 +17,10 @@ namespace ConsoleApp1
 			set { myVar = value; }
 		}
 
+		public Class1()
+		{
+			myVar = 1;
+		}
+
 	}
 }
